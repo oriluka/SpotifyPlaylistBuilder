@@ -1,0 +1,19 @@
+{
+  "name": "spotifyplaylistbuilder",
+  "version": "1.0.0",
+  "description": "A playlist building tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "-testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oriluka/SpotifyPlaylistBuilder.git"
+  },
+  "author": "MC Tato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oriluka/SpotifyPlaylistBuilder/issues"
+  },
+  "homepage": "https://github.com/oriluka/SpotifyPlaylistBuilder#readme"
+}
